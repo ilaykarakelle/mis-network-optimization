@@ -1,0 +1,11 @@
+Maximum Secure Data Flow from Istanbul_DC to Anadolu_HQ: 1600 Mbps
+
+Routing Details:
+- Istanbul_DC -> Ankara_Hub: 1000 Mbps
+- Istanbul_DC -> Izmir_Hub: 600 Mbps
+- Ankara_Hub -> Bursa_Hub: 400 Mbps
+- Ankara_Hub -> Anadolu_HQ: 600 Mbps
+- Izmir_Hub -> Bursa_Hub: 300 Mbps
+- Izmir_Hub -> Antalya_Hub: 300 Mbps
+- Bursa_Hub -> Anadolu_HQ: 700 Mbps
+- Antalya_Hub -> Anadolu_HQ: 300 Mbps
