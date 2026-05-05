@@ -1,0 +1,9 @@
+Source,Target,Capacity_Mbps
+Istanbul_DC,Ankara_Hub,1000
+Istanbul_DC,Izmir_Hub,800
+Ankara_Hub,Bursa_Hub,400
+Ankara_Hub,Anadolu_HQ,600
+Izmir_Hub,Bursa_Hub,500
+Izmir_Hub,Antalya_Hub,300
+Bursa_Hub,Anadolu_HQ,700
+Antalya_Hub,Anadolu_HQ,400
